@@ -1,0 +1,12 @@
+{
+  "name": "EyeShareNet",
+  "displayName": "EyeShareNet",
+  "expo": {
+    "name": "EyeShareNet",
+    "slug": "EyeShareNet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
